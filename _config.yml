@@ -31,7 +31,7 @@ author: ceciliaknight57
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: rckjbmetadata-Sheet1
+metadata: rckjbmetadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
